@@ -1,1 +1,3 @@
-# ujjwalmaity.github.io
+# UJJWAL MAITY
+
+[GitHub](http://ujjwalmaity.github.io)
